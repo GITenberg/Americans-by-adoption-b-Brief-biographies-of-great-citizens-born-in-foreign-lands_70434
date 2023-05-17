@@ -1,0 +1,44 @@
+_repo: Americans-by-adoption-b-Brief-biographies-of-great-citizens-born-in-foreign-lands_70434
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Neilson, William Allan
+    alias: Neilson, W. A. (William Allan)
+    birthdate: 1869
+    deathdate: 1946
+    gutenberg_agent_id: '1119'
+    url: http://www.gutenberg.org/2009/agents/1119
+    wikipedia: https://en.wikipedia.org/wiki/William_Allan_Neilson
+creator:
+  author:
+    agent_name: Husband, Joseph
+    birthdate: 1885
+    deathdate: 1938
+    gutenberg_agent_id: '40787'
+    url: http://www.gutenberg.org/2009/agents/40787
+description: ''
+gutenberg_issued: '2023-04-01'
+identifiers:
+  gutenberg: '70434'
+  lccn: '20010511'
+language: en
+pgterms:marc905: 20220602141452husband
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Bob Taylor, hekula03 and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bThe Atlantic Monthly Press, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Biography'
+- !lcc 'E151'
+- GITenberg
+tableOfContents: Stephen Girard -- John Ericsson -- Louis Agassiz -- Carl Schurz --
+  Theodore Thomas -- Andrew Carnegie -- James J. Hill -- Augustus Saint-Gaudens --
+  Jacob A. Riis.
+title: 'Americans by adoption : $b Brief biographies of great citizens born in foreign
+  lands'
+url: http://www.gutenberg.org/ebooks/70434
