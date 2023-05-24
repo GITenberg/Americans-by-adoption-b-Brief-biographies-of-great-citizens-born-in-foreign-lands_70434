@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '1119'
     url: http://www.gutenberg.org/2009/agents/1119
     wikipedia: https://en.wikipedia.org/wiki/William_Allan_Neilson
+covers:
+- cover_type: archival
+  image_path: 70434-h/images/cover.jpg
 creator:
   author:
     agent_name: Husband, Joseph
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '40787'
     url: http://www.gutenberg.org/2009/agents/40787
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70434#Americans-by-adoption-b-Brief-biographies-of-great-citizens-born-in-foreign-lands
 gutenberg_issued: '2023-04-01'
 identifiers:
   gutenberg: '70434'
